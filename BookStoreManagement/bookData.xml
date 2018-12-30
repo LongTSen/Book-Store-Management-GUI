@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Books>
+    <Book>
+        <Category>Fiction</Category>
+        <Title>4</Title>
+        <Author>4</Author>
+        <ISBN>4</ISBN>
+        <Price>4.0</Price>
+        <Quantity>44</Quantity>
+        <Description>4</Description>
+    </Book>
+    <Book>
+        <Category>Science</Category>
+        <Title>Science Book I</Title>
+        <Author>Wayne Rooney</Author>
+        <ISBN>9898283749</ISBN>
+        <Price>29.99</Price>
+        <Quantity>18</Quantity>
+        <Description>the moon</Description>
+    </Book>
+    <Book>
+        <Category>Other</Category>
+        <Title>Music BOok</Title>
+        <Author>No name</Author>
+        <ISBN>9930404444</ISBN>
+        <Price>9.77</Price>
+        <Quantity>12</Quantity>
+        <Description>Pop music</Description>
+    </Book>
+    <Book>
+        <Category>Geography</Category>
+        <Title>Where is Viet Nam</Title>
+        <Author>Long</Author>
+        <ISBN>998918182</ISBN>
+        <Price>34.99</Price>
+        <Quantity>2</Quantity>
+        <Description>This will show you where is VietNam</Description>
+    </Book>
+    <Book>
+        <Category>Fiction</Category>
+        <Title>History I</Title>
+        <Author>Ryan LIu</Author>
+        <ISBN>9088736283</ISBN>
+        <Price>9.99</Price>
+        <Quantity>100</Quantity>
+        <Description>Great BOok!rqrawr</Description>
+    </Book>
+    <Book>
+        <Category>Fiction</Category>
+        <Title>Fiction I</Title>
+        <Author>Long Sne</Author>
+        <ISBN>98988183748</ISBN>
+        <Price>23.99</Price>
+        <Quantity>8</Quantity>
+        <Description>This is a good book</Description>
+    </Book>
+    <Book>
+        <Category>Fiction</Category>
+        <Title>Harden</Title>
+        <Author>DJ Molles</Author>
+        <ISBN>929394029344</ISBN>
+        <Price>19.99</Price>
+        <Quantity>20</Quantity>
+        <Description>A Good fiction book</Description>
+    </Book>
+    <Book>
+        <Category>Fiction</Category>
+        <Title>The hideaway</Title>
+        <Author>Lauren K. Denton</Author>
+        <ISBN>909083937423</ISBN>
+        <Price>10.97</Price>
+        <Quantity>19</Quantity>
+        <Description>It's a good book</Description>
+    </Book>
+    <Book>
+        <Category>History</Category>
+        <Title>A History Of Nearly Everything</Title>
+        <Author>Bill Bryson</Author>
+        <ISBN>908898989834</ISBN>
+        <Price>8.91</Price>
+        <Quantity>30</Quantity>
+        <Description>History of the world</Description>
+    </Book>
+    <Book>
+        <Category>Geography</Category>
+        <Title>North Amerian</Title>
+        <Author>Bryant</Author>
+        <ISBN>989898765241</ISBN>
+        <Price>19.99</Price>
+        <Quantity>88</Quantity>
+        <Description>Geography Book of North American</Description>
+    </Book>
+    <Book>
+        <Category>Science</Category>
+        <Title>Big ideals Simply Explaind</Title>
+        <Author>DK</Author>
+        <ISBN>976767544434</ISBN>
+        <Price>9.99</Price>
+        <Quantity>21</Quantity>
+        <Description>Science Book</Description>
+    </Book>
+    <Book>
+        <Category>Other</Category>
+        <Title>How to Cook Pho</Title>
+        <Author>Engela Ngo</Author>
+        <ISBN>909090923134</ISBN>
+        <Price>19.9</Price>
+        <Quantity>55</Quantity>
+        <Description>Cooking Bookssss</Description>
+    </Book>
+</Books>

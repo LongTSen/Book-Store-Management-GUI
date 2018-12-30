@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>company</OriginalElement>
+  <nodes>
+    <node x="612.5" y="468.0">company.generalClass</node>
+    <node x="1007.9545454545454" y="633.5">company.DetailGUI.Listener2</node>
+    <node x="0.0" y="1077.0">company.BookStoreGUI.MyListCellRenderer</node>
+    <node x="395.4824561403509" y="0.0">company.bookDataInString</node>
+    <node x="1045.4545454545455" y="900.0">company.DetailGUI</node>
+    <node x="623.125" y="1385.0">company.BookStoreGUI</node>
+    <node x="1117.2083333333333" y="278.5">company.addNewBook</node>
+    <node x="581.0" y="1077.0">company.BookStoreGUI.Listener</node>
+    <node x="667.125" y="1972.0">company.main</node>
+    <node x="606.2083333333333" y="256.0">company.booksDataBase</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="company.booksDataBase" target="company.bookDataInString">
+      <point x="-122.75" y="-81.0" />
+      <point x="728.9583333333333" y="231.0" />
+      <point x="705.4824561403509" y="231.0" />
+      <point x="62.0" y="103.0" />
+    </edge>
+    <edge source="company.BookStoreGUI" target="company.bookDataInString">
+      <point x="-74.18181818181813" y="-268.5" />
+      <point x="684.9431818181819" y="1345.0" />
+      <point x="570.5" y="1345.0" />
+      <point x="570.5" y="231.0" />
+      <point x="581.4824561403509" y="231.0" />
+      <point x="-62.0" y="103.0" />
+    </edge>
+    <edge source="company.BookStoreGUI.MyListCellRenderer" target="company.bookDataInString">
+      <point x="0.0" y="-25.5" />
+      <point x="280.0" y="231.0" />
+      <point x="457.4824561403509" y="231.0" />
+      <point x="-186.0" y="103.0" />
+    </edge>
+    <edge source="company.BookStoreGUI" target="company.booksDataBase">
+      <point x="74.18181818181813" y="-268.5" />
+      <point x="833.3068181818181" y="1345.0" />
+      <point x="887.5" y="1345.0" />
+      <point x="887.5" y="443.0" />
+      <point x="892.625" y="443.0" />
+      <point x="40.91666666666674" y="81.0" />
+    </edge>
+    <edge source="company.BookStoreGUI.Listener" target="company.BookStoreGUI">
+      <point x="106.875" y="25.5" />
+      <point x="830.375" y="1325.0" />
+      <point x="783.8522727272727" y="1325.0" />
+      <point x="24.727272727272748" y="-268.5" />
+    </edge>
+    <edge source="company.main" target="company.BookStoreGUI">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="268.5" />
+    </edge>
+    <edge source="company.DetailGUI" target="company.DetailGUI.Listener2">
+      <point x="-78.75" y="-202.5" />
+      <point x="1071.7045454545455" y="875.0" />
+      <point x="1043.5795454545455" y="875.0" />
+      <point x="-106.875" y="25.5" />
+    </edge>
+    <edge source="company.DetailGUI.Listener2" target="company.booksDataBase">
+      <point x="-106.875" y="-25.5" />
+      <point x="1043.5795454545455" y="443.0" />
+      <point x="974.4583333333333" y="443.0" />
+      <point x="122.75" y="81.0" />
+    </edge>
+    <edge source="company.BookStoreGUI.Listener" target="company.generalClass">
+      <point x="71.25" y="-25.5" />
+      <point x="794.75" y="875.0" />
+      <point x="779.0" y="875.0" />
+      <point x="55.5" y="191.0" />
+    </edge>
+    <edge source="company.BookStoreGUI" target="company.BookStoreGUI.MyListCellRenderer">
+      <point x="-123.63636363636363" y="-268.5" />
+      <point x="635.4886363636364" y="1365.0" />
+      <point x="140.0" y="1365.0" />
+      <point x="-140.0" y="25.5" />
+    </edge>
+    <edge source="company.generalClass" target="company.booksDataBase">
+      <point x="-55.5" y="-191.0" />
+      <point x="668.0" y="443.0" />
+      <point x="647.125" y="443.0" />
+      <point x="-204.58333333333326" y="81.0" />
+    </edge>
+    <edge source="company.BookStoreGUI" target="company.BookStoreGUI.Listener">
+      <point x="-24.727272727272748" y="-268.5" />
+      <point x="734.3977272727273" y="1325.0" />
+      <point x="687.875" y="1325.0" />
+      <point x="-35.625" y="25.5" />
+    </edge>
+    <edge source="company.DetailGUI.Listener2" target="company.DetailGUI">
+      <point x="106.875" y="25.5" />
+      <point x="1257.3295454545455" y="875.0" />
+      <point x="1229.2045454545455" y="875.0" />
+      <point x="78.75" y="-202.5" />
+    </edge>
+    <edge source="company.DetailGUI.Listener2" target="company.addNewBook">
+      <point x="35.625" y="-25.5" />
+      <point x="1186.0795454545455" y="443.0" />
+      <point x="1178.9583333333333" y="443.0" />
+      <point x="-61.75" y="58.5" />
+    </edge>
+    <edge source="company.BookStoreGUI.MyListCellRenderer" target="company.BookStoreGUI">
+      <point x="140.0" y="25.5" />
+      <point x="420.0" y="1355.0" />
+      <point x="660.2159090909091" y="1355.0" />
+      <point x="-98.90909090909088" y="-268.5" />
+    </edge>
+    <edge source="company.BookStoreGUI" target="company.DetailGUI">
+      <point x="123.63636363636363" y="-268.5" />
+      <point x="882.7613636363636" y="1365.0" />
+      <point x="1202.9545454545455" y="1365.0" />
+      <point x="52.5" y="202.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.23494860499265785" x="2619.303125" y="1429.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
